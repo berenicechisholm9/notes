@@ -21,3 +21,6 @@ Let's GO
 6. Stay organized: Keep your workspace clean and organized to reduce the stress of finding the right tool or file. Organize code, documents, images, etc., in a way that makes sense to you so that it' s easy to find and use when needed.     
 7. Document your code: Writing comments and documentation for your codes helps others understand your thinking and also helps you revisit your own work later on. Documentation can save you time and frustration in troubleshooting issues down
 the road.
+
+# 2023-11-29
+- "Keep it simple, stupid!"
