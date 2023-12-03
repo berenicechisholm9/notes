@@ -44,3 +44,6 @@ the road.
 
 # 2023-12-02
 - Today's programming wisdom is
+
+# 2023-12-03
+- "Keep it simple, stupid!"
