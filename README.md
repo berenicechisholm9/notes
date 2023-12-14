@@ -105,3 +105,9 @@ This quote reminds us that while optimizing code for efficiency is important, it
 - Today's programming wisdom is to be a lifelong learner and adapt to the ever-changing world of technology. This means staying up-to-date with the latest programming languages, tools, and frameworks. It also means being open to new ideas and approaches, as well as understanding the importance of collaboration and communication in a team environment.
 
 To stay ahead of the curve, it' s essential to constantly read and research, attending conferences, workshops, online courses, blogs, forums, etc. Additionally, learning to ask the right questions, critique code, debug, test, refactor, write documentation, communicate, lead, mentor, teach, learn from mistakes, ask for help, give help - all of these skills are crucial for success in the world today. Remember that programming is a craft, not a one-time task, so be prepared to continually refine and improve your skills.
+
+# 2023-12-14
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, planning ahead is crucial for success. Before starting a new project or undertaking a large task, take the time to plan out the steps you needto take and the resources you will need. Knowing what you want to achieve and how to go about it will save you time and frustration later on. 
+ -- 212个字符
