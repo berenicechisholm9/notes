@@ -173,3 +173,9 @@ This emphasizes the importance of clean and straightforward code in programming.
 
 # 2023-12-29
 - Today's programming wisdom is: "Simplicity is the ultimate sophistication. Complex systems tend to be more fragile and harder to maintain. Always strive to write clean, readable, and concise code. Remember that code is read far more often than it is written, so prioritize clarity and understandability over cleverness or optimization. And finally, embrace the power of modularization and reuse, as it enhances scalability, reduces errors, and saves time in the long run."
+
+# 2023-12-30
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving higher priority to tasks that require more time and effort, you can ensure that they are completed on time.
+
+Second, make a plan for your day or week, breaking down larger projects into smaller, manageable tasks. Using a task management tool, such as Trello or Asana, can help keep you organized and on track. Set reminders and deadline for each task, so you don't forget anything important. 
+ -- 212个词
