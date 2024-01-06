@@ -204,3 +204,10 @@ This echoes the design principles advocated by legendary computer scientist Edsg
 
 # 2024-01-05
 - "Keep it simple, stupid!"
+
+# 2024-01-06
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your coding endeavors.
+
+First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project timeline. You can use the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize your task and prioritize them accordingly. 
+ 其次，提前计划。在开始编程之前，确保你了解项目的需求和目标。这将帮助你避免在开发过程中出现不必要的延误和错误。使用版本控制系统（如Git）来跟踪你的代码更改，并确保你始终有最新的备份。此外，为每个功能或任务编写详细的注释，以便在项目后期更容易理解和维护。
+ 最后，保持组织。一个整洁、有组织的代码库可以帮助你更快地找到所需的信息并减少错误的可能性。遵循编程最佳实践，如使用有意义的变量名、遵循代码风格指南和遵循DRY原则（Don' t repeat yourself）。定期审查和重构你的 codebase，以确保其保持简洁、高效且易于维护
