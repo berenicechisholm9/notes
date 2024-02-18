@@ -418,3 +418,10 @@ Another important aspect of programming wise is problem-solving. When faced with
 First, prioritize your tasks. When you're working on a project, it' s important to determine which tasks are most critical to the success of the project. By focusing on these tasks first, you can ensure that your code is of high quality and meets the requirements of your project goals. You can use techniques like the MoSCoW method (Must have, Should have , Could have and Won't have) to categorize and prioritize the tasks effectively. 
  其次，提前计划。在开始编程之前，确保你了解项目的需求和目标。这将帮助你避免在项目过程中出现不必要的延误和错误。制定一个详细的计划，包括任务分配、时间表和预期结果。 在计划中留出一些缓冲时间，以应对可能出现的问题和变更。
  最后，保持组织。一个整洁、有组织的代码库可以帮助你更有效地找到和解决问题。使用版本控制系统（如Git）来跟踪代码更改，并确保你的代码结构清晰、命名规范。定期审查和重构代码，以确保其可读性和可维护性。 通过遵循这些原则，你将能够更成功地完成编程任务，并在你的职业生涯中取得更大的成功。
+
+# 2024-02-18
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. Here are some tips to help:
+
+1. Prioritize tasks: When you are working on a project, it is important to determine which tasks are the most critical and should be completed first. By prioritizing your tasks in this way, you can ensure that you focus on the right things and don't waste time on things that are less important.
+2. Plan ahead: By planning ahead for your projects,you can avoid last-minute panic and stress. Create a plan for each project that includes deadlines, milestones,and tasks to complete. Then, stick to your plan and make adjustments as needed. Planning ahead will also help to keep you organized and on track. 
+3. Stay organized: Keeping your workspace and code organized is crucial for efficiency and productivity. Use version control systems like Git to track your code, organize your files and directories, use code editors with functionality like auto-completion and debugging tools, as well as using well-structured code. These practices will make it easier for youto find and maintain yourcode, reducing the likelihood of errors and making it faster to develop new features.
